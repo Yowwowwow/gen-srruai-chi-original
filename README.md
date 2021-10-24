@@ -4,5 +4,5 @@
 若要玩線上版，可到以下網址；guō hǹg àng uāu lùn, íng chyuōng trèr tì sx uāu; If you want to play the web version, just go to the link below:
 https://yowwowwow.github.io/gen-srruai-chi
 
-# 注意事項
+# Note
 如果沒有連接網路，或連接的網路不可用，則最好不要在線上遊玩中按下加入棋局，因可能會卡在「正在加入棋局。」超久都不會跳出。
